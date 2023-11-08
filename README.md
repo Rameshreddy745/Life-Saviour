@@ -1,4 +1,4 @@
-![image](https://github.com/bcsabhisekh/Life-Saviour/assets/87228664/e215977b-5f78-45d2-bee2-1a5801ed0dcc)
+
 
 # Life Saviour - RapidRescue App
 
@@ -25,11 +25,7 @@ I'm a full stack developer...
 
 ## Authors
 
-- [@bcsabhisekh](https://www.github.com/bcsabhisekh)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bcsabhisekh/)
+- [@Rameshreddy745](https://www.github.com/Rameshreddy745)
 
 
 ## Run Locally
@@ -37,7 +33,7 @@ I'm a full stack developer...
 Clone the project
 
 ```bash
-  git clone https://github.com/bcsabhisekh/Life-Saviour.git
+  git clone https://github.com/Rameshreddy745/Life-Saviour.git
 ```
 
 Go to the project directory
@@ -103,14 +99,6 @@ Start the backend server
 **Database:** MongoDB
 
 **Public API's:** Bing Map API.
-
-
-## Acknowledgements
-
- - [Know more about using Bing Map API](https://learn.microsoft.com/en-us/bingmaps/)
- - [Know more about REST API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
- - [Know more about React Hooks](https://reactjs.org/docs/hooks-intro.html)
-
 
 ## Used By
 
